@@ -416,6 +416,7 @@
 				E558D03E1AFC36250032E557 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E558D03F1AFC36250032E557 /* Build configuration list for PBXNativeTarget "SampleKeyboadMikeTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				E558D0411AFC36250032E557 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
