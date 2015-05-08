@@ -31,6 +31,13 @@
     question_current = questions[ran];
     label_question.text = questions[ran];
     textfield.delegate = self;
+    
+    //backgroundSample
+    [UIView beginAnimations:@"animation" context:nil];
+    [UIView setAnimationDuration:3.0];
+    [UIView setAnimationCurve:UIViewAnimationCurveEaseOut];
+    self.view.backgroundColor = [UIColor yellowColor];
+    [UIView commitAnimations];
 }
 
 - (BOOL)textField:(UITextField *)textField
