@@ -46,6 +46,7 @@
                     <connections>
                         <outlet property="label" destination="epT-HK-ZEz" id="cfy-0L-eiE"/>
                         <outlet property="label_question" destination="0YP-88-Mxe" id="uZg-ac-fGl"/>
+                        <outlet property="label_seikai" destination="HNA-nv-tWz" id="cVl-q0-XMq"/>
                         <outlet property="textfield" destination="lgR-gW-cZv" id="Tui-Lc-3jr"/>
                     </connections>
                 </viewController>
